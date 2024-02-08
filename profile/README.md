@@ -1,4 +1,5 @@
-## MESBAH LAB AT UC BERKELEY
+# MESBAH LAB AT UC BERKELEY
+## LEARNING-BASED ANALYSIS AND PREDICTIVE CONTROL OF UNCERTAIN SYSTEMS
 
 A GitHub organization for the Mesbah Lab, [Department of Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) at the University of California, Berkeley. 
 
