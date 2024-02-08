@@ -1,6 +1,5 @@
 ## MESBAH LAB AT UC BERKELEY
 
-<!--
 A GitHub organization for the Mesbah Lab, [Department of Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) at the University of California, Berkeley. 
 
 Our interdisciplinary research lies at the intersection of optimal control theory, machine learning, applied mathematics, and their application to analysis and control of complex chemical and biomolecular systems. 
@@ -9,4 +8,3 @@ We employ these methods to facilitate high-performance control of systems spanni
 
 Useful resources - 
 [Mesbah Lab Website](https://www.mesbahlab.com/)
--->
