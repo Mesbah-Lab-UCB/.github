@@ -1,5 +1,5 @@
 # MESBAH LAB AT UC BERKELEY
-## LEARNING-BASED ANALYSIS AND PREDICTIVE CONTROL OF UNCERTAIN SYSTEMS
+### Learning-based analysis and predictive control of uncertain systems
 
 A GitHub organization for the Mesbah Lab, [Department of Chemical and Biomolecular Engineering](https://chemistry.berkeley.edu/cbe) at the University of California, Berkeley. 
 
